@@ -4,9 +4,6 @@ This repository contains the implementation accompanying the paper **"Deep Learn
 
 ## Authors
 - Vinnakota Jagadeesh
-- Ankamma Bollimuntha
-- Mr. P. Venkata Rajulu
-- Mr. Dega Balu Kotaiah
 
 Department of Computer Science and Engineering, Vignan's Foundation for Science, Technology and Research, Guntur, India
 
