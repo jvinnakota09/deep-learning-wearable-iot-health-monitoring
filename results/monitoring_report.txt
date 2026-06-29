@@ -1,0 +1,26 @@
+
+=========================================
+  HEALTH MONITORING SESSION REPORT
+=========================================
+Session length  : 721 predictions
+Time range      : 2026-05-17T13:04:52.460606
+                  to 2026-05-17T13:05:53.905029
+
+ECG RESULTS:
+  Normal readings   : 721  (100.0%)
+  Abnormal readings : 0  (0.0%)
+  Alerts triggered  : 0
+
+HEART RATE (from R-peak detection):
+  Valid estimates   : 721 / 721
+  Mean HR           : 149 BPM
+  Range             : 33 – 195 BPM
+
+PERFORMANCE:
+  Avg confidence    : 51.38%
+  Avg inference     : 83.85 ms
+  Max inference     : 161.66 ms
+
+ALERT BREAKDOWN:
+  High confidence (>90%)   : 0
+  Medium conf (70–90%)     : 0
